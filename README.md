@@ -44,5 +44,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zegganewalid&show_icons=true&locale=en&layout=compact" alt="zegganewalid" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zegganewalid&show_icons=true&locale=en" alt="zegganewalid" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zegganewalid&" alt="zegganewalid" /></p>
