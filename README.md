@@ -18,18 +18,32 @@
 
 ## 🚀 About Me
 
-```javascript
-const walid = {
-    role: "Data Analyst & Full-Stack Developer",
-    education: "Master MIAGE @ Université d'Évry Paris-Saclay",
-    currentCompany: "Safran",
-    location: "Paris, France",
-    portfolio: "zegganewalid.com",
-    interests: ["Data Analysis", "Web Development", "AI & ML", "Automation"],
-    currentlyLearning: ["Advanced Power BI", "Machine Learning", "Next.js"],
-    funFact: "I transform coffee ☕ into code and data into insights 📊"
-};
-```
+<table>
+<tr>
+<td>
+
+**👨‍💼 Role:** Data Analyst & Full-Stack Developer  
+**🎓 Education:** Master MIAGE @ Université d'Évry Paris-Saclay  
+**🏢 Company:** Safran  
+**📍 Location:** Paris, France  
+**🌐 Portfolio:** [zegganewalid.com](https://zegganewalid.com)
+
+**🎯 Interests:**
+- 📊 Data Analysis & Business Intelligence
+- 💻 Web Development (React, Vue.js, Node.js)
+- 🤖 AI & Machine Learning
+- ⚡ Process Automation
+
+**📚 Currently Learning:**
+- Advanced Power BI
+- Machine Learning
+- Next.js
+
+**⚡ Fun Fact:** I transform coffee ☕ into code and data into insights 📊
+
+</td>
+</tr>
+</table>
 
 ## 💼 Professional Experience
 
@@ -83,12 +97,12 @@ const walid = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zegganewalid&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zegganewalid&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zegganewalid&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zegganewalid&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zegganewalid&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zegganewalid&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -102,19 +116,23 @@ const walid = {
     <td width="50%">
       <h3 align="center">📊 Power BI Sales Dashboard</h3>
       <div align="center">  
-        <a href="https://github.com/zegganewalid/PowerBiProjetSales">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zegganewalid&repo=PowerBiProjetSales&theme=radical" />
+        <a href="https://github.com/zegganewalid/PowerBiProjetSales" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zegganewalid&repo=PowerBiProjetSales&theme=radical&hide_border=true" />
         </a>
+        <br><br>
         <p><strong>Power BI • Data Analysis</strong></p>
+        <p>Interactive commercial dashboard for sales analysis with Power BI and Power Query</p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">🚀 SpaceX Launch Tracker</h3>
       <div align="center">
-        <a href="https://github.com/zegganewalid/VueJsSpaceX">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zegganewalid&repo=VueJsSpaceX&theme=radical" />
+        <a href="https://github.com/zegganewalid/VueJsSpaceX" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zegganewalid&repo=VueJsSpaceX&theme=radical&hide_border=true" />
         </a>
+        <br><br>
         <p><strong>Vue.js • TypeScript • API</strong></p>
+        <p>Real-time SpaceX launches tracker with countdown and filters</p>
       </div>
     </td>
   </tr>
@@ -122,19 +140,23 @@ const walid = {
     <td width="50%">
       <h3 align="center">🔐 React Auth System</h3>
       <div align="center">
-        <a href="https://github.com/zegganewalid/ReactLoginSingup">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zegganewalid&repo=ReactLoginSingup&theme=radical" />
+        <a href="https://github.com/zegganewalid/ReactLoginSingup" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zegganewalid&repo=ReactLoginSingup&theme=radical&hide_border=true" />
         </a>
+        <br><br>
         <p><strong>React • Node.js • MongoDB</strong></p>
+        <p>Full-stack authentication system with Google integration</p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">🐍 Python Parallelization</h3>
       <div align="center">
-        <a href="https://github.com/zegganewalid/Processus_Python">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zegganewalid&repo=Processus_Python&theme=radical" />
+        <a href="https://github.com/zegganewalid/Processus_Python" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zegganewalid&repo=Processus_Python&theme=radical&hide_border=true" />
         </a>
+        <br><br>
         <p><strong>Python • Algorithms</strong></p>
+        <p>Library for automatic task parallelization with dependency management</p>
       </div>
     </td>
   </tr>
@@ -149,16 +171,16 @@ const walid = {
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zegganewalid&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zegganewalid&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://zegganewalid.com">
+  <a href="https://zegganewalid.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF6B6B?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/zeggane-walid/">
+  <a href="https://www.linkedin.com/in/zeggane-walid/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:zegganewalid11@gmail.com">
