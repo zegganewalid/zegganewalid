@@ -102,7 +102,6 @@
       <h3 align="center">📊 Power BI Sales Dashboard</h3>
       <div align="center">  
         <a href="https://github.com/zegganewalid/PowerBiProjetSales" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zegganewalid&repo=PowerBiProjetSales&theme=radical&hide_border=true" />
         </a>
         <br><br>
         <p><strong>Power BI • Data Analysis</strong></p>
@@ -113,7 +112,6 @@
       <h3 align="center">🚀 SpaceX Launch Tracker</h3>
       <div align="center">
         <a href="https://github.com/zegganewalid/VueJsSpaceX" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zegganewalid&repo=VueJsSpaceX&theme=radical&hide_border=true" />
         </a>
         <br><br>
         <p><strong>Vue.js • TypeScript • API</strong></p>
@@ -126,7 +124,6 @@
       <h3 align="center">🔐 React Auth System</h3>
       <div align="center">
         <a href="https://github.com/zegganewalid/ReactLoginSingup" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zegganewalid&repo=ReactLoginSingup&theme=radical&hide_border=true" />
         </a>
         <br><br>
         <p><strong>React • Node.js • MongoDB</strong></p>
@@ -137,7 +134,6 @@
       <h3 align="center">🐍 Python Parallelization</h3>
       <div align="center">
         <a href="https://github.com/zegganewalid/Processus_Python" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zegganewalid&repo=Processus_Python&theme=radical&hide_border=true" />
         </a>
         <br><br>
         <p><strong>Python • Algorithms</strong></p>
