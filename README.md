@@ -94,17 +94,6 @@
 
 </div>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zegganewalid&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zegganewalid&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zegganewalid&theme=radical" alt="GitHub Streak"/>
-</p>
-
 ## 🌟 Featured Projects
 
 <table>
@@ -113,30 +102,22 @@
       <h3 align="center">📊 Power BI Sales Dashboard</h3>
       <div align="center">  
         <a href="https://github.com/zegganewalid/PowerBiProjetSales" target="_blank">
-          <img src="https://img.shields.io/badge/Power_BI-Project-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zegganewalid&repo=PowerBiProjetSales&theme=radical&hide_border=true" />
         </a>
         <br><br>
         <p><strong>Power BI • Data Analysis</strong></p>
         <p>Interactive commercial dashboard for sales analysis with Power BI and Power Query</p>
-        <br>
-        <a href="https://github.com/zegganewalid/PowerBiProjetSales" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">🚀 SpaceX Launch Tracker</h3>
       <div align="center">
         <a href="https://github.com/zegganewalid/VueJsSpaceX" target="_blank">
-          <img src="https://img.shields.io/badge/Vue.js-Project-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zegganewalid&repo=VueJsSpaceX&theme=radical&hide_border=true" />
         </a>
         <br><br>
         <p><strong>Vue.js • TypeScript • API</strong></p>
         <p>Real-time SpaceX launches tracker with countdown and filters</p>
-        <br>
-        <a href="https://github.com/zegganewalid/VueJsSpaceX" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
       </div>
     </td>
   </tr>
@@ -145,30 +126,22 @@
       <h3 align="center">🔐 React Auth System</h3>
       <div align="center">
         <a href="https://github.com/zegganewalid/ReactLoginSingup" target="_blank">
-          <img src="https://img.shields.io/badge/React-Project-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zegganewalid&repo=ReactLoginSingup&theme=radical&hide_border=true" />
         </a>
         <br><br>
         <p><strong>React • Node.js • MongoDB</strong></p>
         <p>Full-stack authentication system with Google integration</p>
-        <br>
-        <a href="https://github.com/zegganewalid/ReactLoginSingup" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">🐍 Python Parallelization</h3>
       <div align="center">
         <a href="https://github.com/zegganewalid/Processus_Python" target="_blank">
-          <img src="https://img.shields.io/badge/Python-Project-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=zegganewalid&repo=Processus_Python&theme=radical&hide_border=true" />
         </a>
         <br><br>
         <p><strong>Python • Algorithms</strong></p>
         <p>Library for automatic task parallelization with dependency management</p>
-        <br>
-        <a href="https://github.com/zegganewalid/Processus_Python" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
       </div>
     </td>
   </tr>
@@ -179,6 +152,12 @@
 ### 👉 [View All Projects on Portfolio](https://zegganewalid.com) 👈
 
 </div>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zegganewalid&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
 
 ## 🤝 Let's Connect!
 
