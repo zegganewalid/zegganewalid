@@ -1,115 +1,124 @@
+<div align="center">
+  
+# 👋 Bonjour, je suis Walid Zeggane
 
-![MasterHead](https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif)
-<h1 align="center">Hi 👋, I'm Zeggane Walid</h1>
-<h3 align="center">Computer science student passionate about development</h3>
+### Analyste de Données & Développeur Full-Stack
 
-![Description alternative](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGUwZGliNi0wZDU4NDgyMC00NWQ5LTQ5YzgtYTU0ZC1hMzNiOThhYzgzNzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oIKwFOK9Aqd8E2YOv8KDWQoSyNhyM_7E6T34Td20ZKE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zegganewalid.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zegganewalid.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeggane%20Walid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeggane-walid/)
+[![Email](https://img.shields.io/badge/Email-zegganewalid11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zegganewalid11@gmail.com)
 
+<img src="https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif" width="800" alt="Banner"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zegganewalid&label=Profile%20views&color=0e75b6&style=flat" alt="zegganewalid" /> </p>
+</div>
 
-<p align="left"> <a href="https://twitter.com/walid9858547596" target="blank"><img src="https://img.shields.io/twitter/follow/walid9858547596?logo=twitter&style=for-the-badge" alt="walid9858547596" /></a> </p>
+---
 
-- 🔭 I’m currently working on [todos](https://github.com/zegganewalid)
+## 🎓 À propos de moi
 
-- 🌱 I’m currently learning **React,Nodejs**
+- 🎓 **Étudiant en Master 1 MIAGE** en apprentissage à l'Université d'Évry Paris-Saclay
+- 💼 **Analyste de données** chez Safran (depuis Sept. 2024)
+- 💻 Passionné par l'**analyse de données**, le **développement web** et l'**intelligence artificielle**
+- 🌐 Portfolio : **[zegganewalid.com](https://zegganewalid.com)**
+- 📧 Contact : **zegganewalid11@gmail.com**
 
-- 👯 I’m looking to collaborate on [todos](https://github.com/zegganewalid)
+---
 
-- 🤝 I’m looking for help with [todos](https://github.com/zegganewalid)
+## 🚀 Compétences Techniques
 
-- 👨‍💻 All of my projects are available at [https://github.com/zegganewalid](https://github.com/zegganewalid)
+### 📊 Analyse de Données & Business Intelligence
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat&logo=talend&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-- 📝 I regularly write articles on [https://github.com/zegganewalid](https://github.com/zegganewalid)
+### 💻 Développement Web
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-- 💬 Ask me about **web dev, oop, SQL**
+### 🗄️ Bases de Données
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-- 📫 How to reach me **zegganewalid11@gmail.com**
+### 🛠️ Outils & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
-- 📄 Know about my experiences [experiences.md](experiences.md)
+---
 
-- ⚡ Fun fact **I Enjoy**
+## 💼 Expérience Professionnelle
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/walid9858547596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="walid9858547596" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/zeggane-walid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeggane-walid/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/zegganewalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zegganewalid" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/zeggane-walid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.linkedin.com/in/zeggane-walid/" height="30" width="40" /></a>
-</p>
+### 📊 Analyste de Données - **Safran**
+*Septembre 2024 - Présent*
+- Analyse de données avec **Power BI** et création de tableaux de bord interactifs
+- Développement d'ETL avec **Talend** pour l'extraction et transformation de données
+- Automatisation avec **Python** et **PowerShell**
 
-<h3 align="left">Programming Languages:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-  </a>
-</p>
+### 💻 Développeur Web (Stage) - **L'Agence du Déménagement**
+*Avril 2025 - Juin 2025*
+- Développement web en environnement **Agile**
+- Conception d'API REST
+- Création d'interfaces utilisateur modernes avec **React**
 
-<h3 align="left">Frameworks:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-</p>
+---
 
+## 📈 Statistiques GitHub
 
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zegganewalid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<h3 align="left">Platforms and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zegganewalid&layout=compact&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zegganewalid&theme=tokyonight&hide_border=true)
 
+</div>
 
-<h3 align="left">Design Tools:</h3>
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
-  </a>
-</p>
+---
 
+## 🌟 Projets Phares
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zegganewalid&show_icons=true&locale=en&layout=compact" alt="zegganewalid" /></p>
+### 📊 [Analyse Power BI - Gestion Commerciale](https://github.com/zegganewalid/PowerBiProjetSales)
+Dashboard interactif pour l'analyse de données commerciales avec Power BI
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zegganewalid&show_icons=true&locale=en" alt="zegganewalid" /></p>
+### 🚀 [SpaceX API - Vue.js](https://github.com/zegganewalid/VueJsSpaceX)
+Application Vue.js avec TypeScript pour afficher les lancements SpaceX en temps réel
+
+### 🔐 [React Login System](https://github.com/zegganewalid/ReactLoginSingup)
+Système d'authentification complet avec React, Node.js et MongoDB
+
+### 🐍 [Parallélisation Python](https://github.com/zegganewalid/Processus_Python)
+Bibliothèque Python pour paralléliser l'exécution de tâches interconnectées
+
+➡️ **[Voir tous mes projets sur mon portfolio](https://zegganewalid.com)**
+
+---
+
+## 📫 Me Contacter
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-zegganewalid.com-4285F4?style=for-the-badge)](https://zegganewalid.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeggane%20Walid-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeggane-walid/)
+[![Email](https://img.shields.io/badge/Gmail-zegganewalid11-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zegganewalid11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-zegganewalid-181717?style=for-the-badge&logo=github)](https://github.com/zegganewalid)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 *"L'analyse des données transforme l'information en décision"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=zegganewalid&color=0e75b6&style=flat-square)
+
+</div>
